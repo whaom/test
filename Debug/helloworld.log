@@ -1,3 +1,4 @@
 ﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
   helloworld.c
+  LINK : 没有找到 .\Debug\helloworld.exe 或上一个增量链接没有生成它；正在执行完全链接
   helloworld.vcxproj -> C:\Users\Dell\source\repos\whaom\test\Debug\helloworld.exe
